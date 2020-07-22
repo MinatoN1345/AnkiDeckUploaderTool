@@ -8,7 +8,7 @@ When adding front and back cards to a deck, it felt tedious going to and fro cop
 Simply uses x-path locating of the email and password fields, as well as locating the fields for the front and back card information and any buttons that need to be clicked.
 
 # Look out:
-This will work as long as the Anki web source code does not change drastically and thus change the xpath location of certain elements.
+This will work as long as the Anki web source code does not change drastically and thus change the xpath location of certain elements. If the xpaths do no longer worker, I would simply copy them again. See https://youtu.be/RNczsWCV-MY. (7:15 to be exact) for an explanation of how to do this.
 
 # Setup:
 
