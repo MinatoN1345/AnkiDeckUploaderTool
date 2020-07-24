@@ -10,6 +10,8 @@ Simply uses x-path locating of the email and password fields, as well as locatin
 # Look out:
 This will work as long as the Anki web source code does not change drastically and thus change the xpath location of certain elements. If the xpaths do no longer worker, I would simply copy them again. See https://youtu.be/RNczsWCV-MY. (7:15 to be exact) for an explanation of how to do this.
 
+Each line must have exactly one hyphen (-) and one period (.) , as these are used as delimiters. Also ensuring these are in the correct place will allow for the Front and Back Card statements to be recognised correctly.
+
 # Setup:
 
 ChromeDriver: 
